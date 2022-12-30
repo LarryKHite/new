@@ -7,14 +7,14 @@
 
 # Site settings
 title: Best Daily Podcast
-email: contact@bestdailypodcast.online
-description: "We have picked the best daily podcasts for you to listen.These audios will make your commute, gym session or morning routines more interesting! https://bestdailypodcast.online"
+email: contact@bestdailypodcast.xyz
+description: "We have picked the best daily podcasts for you to listen.These audios will make your commute, gym session or morning routines more interesting! https://bestdailypodcast.xyz"
 subtitle: ""
 lang: en-us
 author: carper
 copyright: "&#xA9; 2022"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://bestdailypodcast.online" # the base hostname & protocol for your site
+url: "https://bestdailypodcast.xyz" # the base hostname & protocol for your site
 twitter_username:
 github_username:
 
